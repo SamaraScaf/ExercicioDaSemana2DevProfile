@@ -1,2 +1,2 @@
-# ExercicioDaSemana2_DevProfile
-ExercicioDaSemana2_DevProfile
+# ExercicioDaSemana2DevProfile
+ExercicioDaSemana2DevProfile
